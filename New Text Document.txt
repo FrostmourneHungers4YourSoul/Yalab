@@ -1,0 +1,2 @@
+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
+git remote set-url origin https://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@github.com/FrostmourneHungers4YourSoul/Yalab
