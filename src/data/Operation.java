@@ -2,9 +2,9 @@ package data;
 
 public enum Operation {
     REGISTRATION,
-    REG,              //скоращенный вариант для удобства
+    REG,
     AUTHORISATION,
-    AUTH,            //аналогично
+    AUTH,
     ADMIN,
     EXIT
 }
